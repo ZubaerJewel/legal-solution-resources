@@ -1,0 +1,64 @@
+
+*{
+    font-family: 'Open Sans', sans-serif;
+  
+    font-family: 'Work Sans', sans-serif;
+   
+  }
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .contain {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  button{
+    background-color: rgb(246, 150, 7);
+  }
+  .banner-header{
+   font-size: 80;
+   font-weight: 900; 
+   margin-bottom: 50px;
+  }
+  .banner-description{
+    margin-bottom: 50px;
+
+  }
+  input{
+    width: 300px;
+  }
+ 
+  
+  section{
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+  /*carousel images  */
+  .high{
+        height: 600px;
+  }
+  /* <!-- ==========================================
+  The Legal Practice Area section          
+=========================================== --> */
+.position{
+    margin-left: 50px;
+    margin-top: 80px;
+    margin-bottom: 50px;
+    padding-left: 100px;
+}
+
+   /* <!-- Contact With Us Section -->     */
+   .messages{
+    margin-bottom: 10px ;
+   }
+
+  @media screen and (max-width:576px) {
+    /* <!-- Contact With Us Section -->     */
+
+
+
+}
